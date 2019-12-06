@@ -1,4 +1,8 @@
 aaa
 111
 222
+<<<<<<< HEAD
 master
+=======
+testing
+>>>>>>> testing
